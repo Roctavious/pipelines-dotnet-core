@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/EvanWheat/dotNET%20Pipeline%20Sample/_apis/build/status/Roctavious.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/EvanWheat/dotNET%20Pipeline%20Sample/_build/latest?definitionId=2&branchName=master)
+[Build Status](https://dev.azure.com/EvanWheat/dotNET%20Pipeline%20Sample/_apis/build/status/Roctavious.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/EvanWheat/dotNET%20Pipeline%20Sample/_build/latest?definitionId=2&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
